@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Build output directory (where TypeScript compiles to)
+dist/
+
+# Environment variables file (where you store sensitive information)
+.env
